@@ -17,5 +17,6 @@ fn main() {
     let osd_control = OsdControl::new(device);
     let kvm_switch = KvmSwitch::new(osd_control);
 
+    println!("Toggling KVM...");
     kvm_switch.toggle_kvm();
 }
