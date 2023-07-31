@@ -6,7 +6,7 @@ The commands were reverse engineered from the official Gigabyte OSD Sidekick.
 
 ## Usage
 
-Run the executable!
+Run the executable! Tested on Windows and Mac.
 
 ## Troubleshooting
 
